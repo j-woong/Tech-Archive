@@ -89,6 +89,8 @@
 | 26.05.05 | 프로그래머스 | Level_Tests/Level_2 | 문자열압축 | 슬라이싱/구현 | Success |
 | 26.05.08 | 프로그래머스 | Level_Tests/Level_2 | 압축 | 슬라이싱/구현 | Success |
 | 26.05.09 | 프로그래머스 | Level_Tests/Level_2 | [1차]뉴스클러스터링 | 구현 | Success |
+| 26.05.09 | 프로그래머스 | Level_Tests/Level_2 | 튜플 | 튜플 | 진행 중 |
+
 ---z
 
 ## 🛠 사용 기술 및 환경
