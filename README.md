@@ -92,6 +92,7 @@
 | 26.05.10 | 프로그래머스 | Level_Tests/Level_2 | 튜플 | 문자열 | Success |
 | 26.05.12 | 프로그래머스 | Level_Tests/Level_2 | [1차]캐시 | 큐/덱 | Success |
 | 26.05.12 | 프로그래머스 | Level_Tests/Level_2 | 오픈채팅방 | 딕셔너리 | Success |
+| 26.05.13 | 프로그래머스 | Level_Tests/Level_2 | 프로세스 | 스택/큐 | 재풀이 |
 ---z
 
 ## 🛠 사용 기술 및 환경
