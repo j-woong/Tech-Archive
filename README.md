@@ -32,9 +32,9 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 26.05.18 | 프로그래머스 | Level_2 | [가장 큰 수](./Programmers/Level_Tests/Level_2/Level_2_가장큰수.py) | 정렬 | Success | |
-| 26.05.17 | 프로그래머스 | Level_1 | [문자열 나누기](./Programmers/Level_Tests/Level_1/Level_1_문자열%20나누기.py) | 문자열 | Success | |
-| 26.05.17 | 프로그래머스 | Level_1 | [크기가 작은 부분 문자열](./Programmers/Level_Tests/Level_1/Level_1_크기가작은부분문자열.py) | 문자열 | Success | |
+| 26.05.18 | 프로그래머스 | Level_2 | [가장큰수](./Programmers/Level_Tests/Level_2/Level_2_가장큰수.py) | 정렬 | Success | |
+| 26.05.17 | 프로그래머스 | Level_1 | [문자열나누기](./Programmers/Level_Tests/Level_1/Level_1_문자열%20나누기.py) | 문자열 | Success | |
+| 26.05.17 | 프로그래머스 | Level_1 | [크기가작은부분 문자열](./Programmers/Level_Tests/Level_1/Level_1_크기가작은부분문자열.py) | 문자열 | Success | |
 | 26.05.15 | 프로그래머스 | Level_1 | [숫자문자열과영단어](./Programmers/Level_Tests/Level_1/Level_1_숫자문자열과영단어.py) | 문자열 | Success | |
 | 26.05.13 | 프로그래머스 | Level_2 | [주식가격](./Programmers/Level_Tests/Level_2/Level_2_주식가격.py) | 스택/큐 | Success | |
 | 26.05.13 | 프로그래머스 | Level_2 | [프로세스](./Programmers/Level_Tests/Level_2/Level_2_프로세스.py) | 스택/큐 | Success | 재풀이 |
