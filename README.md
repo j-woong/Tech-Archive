@@ -47,8 +47,8 @@
 | 26.05.04 | 프로그래머스 | Level_2 | [기능개발](./Programmers/Level_Tests/Level_2/Level_2_기능개발.py) | 스택/큐 | Success | 재풀이 |
 | 26.05.04 | 프로그래머스 | Level_2 | [[3차]n진수게임](./Programmers/Level_Tests/Level_2/Level_2_3차n진수게임.py) | 수학/문자열 | Success | |
 | 26.05.03 | 프로그래머스 | Level_1 | [성경유형검사](./Programmers/Level_Tests/Level_1/Level_1_성경유형검사.py) | 딕셔너리 | Success | |
-| 26.05.03 | 프로그래머스 | Level_1 | [바탕화면정리](./Programmers/Level_Tests/Level_1/Level_1_바탕화면정정리.py) | 이차원배열 | Success | |
-| 26.05.03 | 프로그래머스 | Level_0 | [홀짝구분하기](./Programmers/Level_Tests/Level_0/Level_1_홀짝구분하기.py) | 조건문 | Success | |
+| 26.05.03 | 프로그래머스 | Level_1 | [바탕화면정리](./Programmers/Level_Tests/Level_1/Level_1_바탕화면정리.py) | 이차원배열 | Success | |
+| 26.05.03 | 프로그래머스 | Level_0 | [홀짝구분하기](./Programmers/Level_Tests/Level_0/Level_0_홀짝구분하기.py) | 조건문 | Success | |
 | 26.05.02 | 프로그래머스 | Level_2 | [소수찾기](./Programmers/Level_Tests/Level_2/Level_2_소수찾기.py) | itertools | Success | |
 | 26.05.02 | 프로그래머스 | Level_1 | [소수찾기](./Programmers/Level_Tests/Level_1/Level_1_소수찾기.py) | itertools | Success | |
 | 26.04.27 | 프로그래머스 | Level_1 | [신규아이디추천](./Programmers/Level_Tests/Level_1/Level_1_신규아이디추천.py) | 문자열 | Success | |
@@ -68,7 +68,7 @@
 | 26.04.14 | 백준 | 1927 | [최소힙](./Baekjoon/Data_Structure/Heap/1927_최소힙.py) | 힙 | Success | |
 | 26.04.13 | 백준 | 1158 | [오세푸스문제](./Baekjoon/Data_Structure/Queue_Deque/1158_오세푸스문제.py) | 큐/덱 | Success | |
 | 26.04.13 | 백준 | 2164 | [카드2](./Baekjoon/Data_Structure/Queue_Deque/2164_카드2.py) | 큐/덱 | Success | |
-| 26.04.13 | 백준 | 9012 | [괄호](./Baekjoon/Data_Structure/Stack/9012_괄호.py) | 스택 | Success | |
+| 26.04.13 | 백준 | 9012 | [괄호](./BaekStructure/Stack/9012_괄호.py) | 스택 | Success | |
 | 26.04.13 | 프로그래머스 | Level_2 | [더맵게](./Programmers/Level_Tests/Level_2/Level_2_더맵게.py) | 힙 | Success | |
 | 26.04.13 | 프로그래머스 | Level_2 | [다리를지나는트럭](./Programmers/Level_Tests/Level_2/Level_2_다리를지나는트럭.py) | 스택/큐 | Success | |
 | 26.04.12 | 프로그래머스 | Level_2 | [프로세스](./Programmers/Level_Tests/Level_2/Level_2_프로세스.py) | 스택/큐 | Success | |
@@ -106,7 +106,7 @@
 | 26.03.25 | 백준 | 15649 | [N과M(2)](./Baekjoon/Search/15649_N과M_2.py) | 백트래킹 | Success | |
 | 26.03.25 | 백준 | 15649 | [N과M(1)](./Baekjoon/Search/15649_N과M_1.py) | 백트래킹 | Success | |
 | 26.03.25 | 백준 | 3190 | [뱀](./Baekjoon/Implementation/3190_뱀.py) | 구현 | Success | |
-| 26.03.24 | 백준 | 2583 | [ 영역구하기](./Baekjoon/Search/2583_영역구하기.py) | DFS | Success | |
+| 26.03.24 | 백준 | 2583 | [영역구하기](./Baekjoon/Search/2583_영역구하기.py) | DFS | Success | |
 | 26.03.24 | 백준 | 2667 | [단지번호붙이기](./Baekjoon/Search/2667_단지번호붙이기.py) | DFS | Success | |
 | 26.03.23 | 백준 | 13023 | [ABCDE](./Baekjoon/Search/13023_ABCDE.py) | DFS | Success | |
 | 26.03.23 | 백준 | 2606 | [바이러스](./Baekjoon/Search/2606_바이러스.py) | DFS | Success | |
