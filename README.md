@@ -32,33 +32,33 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 26.05.18 | 프로그래머스 | Level_2 | [가장 큰 수](./Programmers/Level_2_가장큰수.py) | 정렬 | Success | |
-| 26.05.17 | 프로그래머스 | Level_1 | [문자열 나누기](./Programmers/Level_1_문자열%20나누기.py) | 문자열 | Success | |
-| 26.05.17 | 프로그래머스 | Level_1 | [크기가 작은 부분 문자열](./Programmers/Level_1_크기가작은부분문자열.py) | 문자열 | Success | |
-| 26.05.15 | 프로그래머스 | Level_1 | [숫자문자열과영단어](./Programmers/Level_1_숫자문자열과영단어.py) | 문자열 | Success | |
-| 26.05.13 | 프로그래머스 | Level_2 | [주식가격](./Programmers/Level_2_주식가격.py) | 스택/큐 | Success | |
-| 26.05.13 | 프로그래머스 | Level_2 | [프로세스](./Programmers/Level_2_프로세스.py) | 스택/큐 | Success | 재풀이 |
-| 26.05.12 | 프로그래머스 | Level_2 | [오픈채팅방](./Programmers/Level_2_오픈채팅방.py) | 딕셔너리 | Success | |
-| 26.05.12 | 프로그래머스 | Level_2 | [[1차]캐시](./Programmers/Level_2_1차캐시.py) | 큐/덱 | Success | |
-| 26.05.10 | 프로그래머스 | Level_2 | [튜플](./Programmers/Level_2_튜플.py) | 문자열 | Success | |
-| 26.05.09 | 프로그래머스 | Level_2 | [[1차]뉴스클러스터링](./Programmers/Level_2_1차뉴스클러스터링.py) | 구현 | Success | |
-| 26.05.08 | 프로그래머스 | Level_2 | [압축](./Programmers/Level_2_압축.py) | 슬라이싱/구현 | Success | |
-| 26.05.05 | 프로그래머스 | Level_2 | [문자열압축](./Programmers/Level_2_문자열압축.py) | 슬라이싱/구현 | Success | |
-| 26.05.04 | 프로그래머스 | Level_2 | [기능개발](./Programmers/Level_2_기능개발.py) | 스택/큐 | Success | 재풀이 |
-| 26.05.03 | 프로그래머스 | Level_2 | [[3차]n진수게임](./Programmers/Level_2_3차n진수게임.py) | 수학/문자열 | Success | |
-| 26.05.03 | 프로그래머스 | Level_1 | [성경유형검사](./Programmers/Level_1_성경유형검사.py) | 딕셔너리 | Success | |
-| 26.05.03 | 프로그래머스 | Level_1 | [바탕화면정리](./Programmers/Level_1_바탕화면정리.py) | 이차원배열 | Success | |
-| 26.05.03 | 프로그래머스 | Level_0 | [홀짝구분하기](./Programmers/Level_0_홀짝구분하기.py) | 조건문 | Success | |
-| 26.05.02 | 프로그래머스 | Level_2 | [소수찾기](./Programmers/Level_2_소수찾기.py) | itertools | Success | |
-| 26.05.02 | 프로그래머스 | Level_1 | [소수찾기](./Programmers/Level_1_소수찾기.py) | itertools | Success | |
-| 26.04.27 | 프로그래머스 | Level_1 | [신규아이디추천](./Programmers/Level_1_신규아이디추천.py) | 문자열 | Success | |
+| 26.05.18 | 프로그래머스 | Level_2 | [가장 큰 수](./Programmers/Level_Tests/Level_2/Level_2_가장큰수.py) | 정렬 | Success | |
+| 26.05.17 | 프로그래머스 | Level_1 | [문자열 나누기](./Programmers/Level_Tests/Level_1/Level_1_문자열%20나누기.py) | 문자열 | Success | |
+| 26.05.17 | 프로그래머스 | Level_1 | [크기가 작은 부분 문자열](./Programmers/Level_Tests/Level_1/Level_1_크기가작은부분문자열.py) | 문자열 | Success | |
+| 26.05.15 | 프로그래머스 | Level_1 | [숫자문자열과영단어](./Programmers/Level_Tests/Level_1/Level_1_숫자문자열과영단어.py) | 문자열 | Success | |
+| 26.05.13 | 프로그래머스 | Level_2 | [주식가격](./Programmers/Level_Tests/Level_2/Level_2_주식가격.py) | 스택/큐 | Success | |
+| 26.05.13 | 프로그래머스 | Level_2 | [프로세스](./Programmers/Level_Tests/Level_2/Level_2_프로세스.py) | 스택/큐 | Success | 재풀이 |
+| 26.05.12 | 프로그래머스 | Level_2 | [오픈채팅방](./Programmers/Level_Tests/Level_2/Level_2_오픈채팅방.py) | 딕셔너리 | Success | |
+| 26.05.12 | 프로그래머스 | Level_2 | [[1차]캐시](./Programmers/Level_Tests/Level_2/Level_2_[1차]캐시.py) | 큐/덱 | Success | |
+| 26.05.10 | 프로그래머스 | Level_2 | [튜플](./Programmers/Level_Tests/Level_2/Level_2_튜플.py) | 문자열 | Success | |
+| 26.05.09 | 프로그래머스 | Level_2 | [[1차]뉴스클러스터링](./Programmers/Level_Tests/Level_2/Level_2_[1차]뉴스클러스터링.py) | 구현 | Success | |
+| 26.05.08 | 프로그래머스 | Level_2 | [압축](./Programmers/Level_Tests/Level_2/Level_2_압축.py) | 슬라이싱/구현 | Success | |
+| 26.05.05 | 프로그래머스 | Level_2 | [문자열압축](./Programmers/Level_Tests/Level_2/Level_2_문자열압축.py) | 슬라이싱/구현 | Success | |
+| 26.05.04 | 프로그래머스 | Level_2 | [기능개발](./Programmers/Level_Tests/Level_2/Level_2_기능개발.py) | 스택/큐 | Success | 재풀이 |
+| 26.05.03 | 프로그래머스 | Level_2 | [[3차]n진수게임](./Programmers/Level_Tests/Level_2/Level_2_[3차]n진수게임.py) | 수학/문자열 | Success | |
+| 26.05.03 | 프로그래머스 | Level_1 | [성경유형검사](./Programmers/Level_Tests/Level_1/Level_1_성경유형검사.py) | 딕셔너리 | Success | |
+| 26.05.03 | 프로그래머스 | Level_1 | [바탕화면정리](./Programmers/Level_Tests/Level_1/Level_1_바탕화면정리.py) | 이차원배열 | Success | |
+| 26.05.03 | 프로그래머스 | Level_0 | [홀짝구분하기](./Programmers/Level_Tests/Level_0/Level_1_홀짝구분하기.py) | 조건문 | Success | |
+| 26.05.02 | 프로그래머스 | Level_2 | [소수찾기](./Programmers/Level_Tests/Level_2/Level_2_소수찾기.py) | itertools | Success | |
+| 26.05.02 | 프로그래머스 | Level_1 | [소수찾기](./Programmers/Level_Tests/Level_1/Level_1_소수찾기.py) | itertools | Success | |
+| 26.04.27 | 프로그래머스 | Level_1 | [신규아이디추천](./Programmers/Level_Tests/Level_1/Level_1_신규아이디추천.py) | 문자열 | Success | |
 | 26.04.22 | 프로그래머스 | Kit_Heap | [디스크컨트롤러](./Programmers/Kit/Heap/디스크컨트롤러.py) | 힙 | 진행 중 | |
-| 26.04.22 | 백준 | 5379 | [키로거](./Baekjoon/Data_Structure/Stack/5379_키로거.py) | 스택 | 진행 중 | |
+| 26.04.22 | 백준 | 5379 | [키로거](./Baekjoon/Data_Structure/Queue_Deque/5379_키로거.py) | 스택 | 진행 중 | |
 | 26.04.22 | 백준 | 2579 | [계단오르기](./Baekjoon/Dynamic_Programming/2579_계단오르기.py) | DP | 진행 중 | |
 | 26.04.22 | 백준 | 13460 | [구슬탈출2](./Baekjoon/Search/13460_구슬탈출2.py) | BFS | 진행 중 | |
 | 26.04.22 | 프로그래머스 | Kit_DFS/BFS | [네트워크](./Programmers/Kit/Dfs_Bfs/Level_3_네트워크.py) | DFS/BFS | Success | |
-| 26.04.18 | 프로그래머스 | Level_2 | [주차요금계산](./Programmers/Level_2_주차요금계산.py) | 구현 | Success | |
-| 26.04.17 | 프로그래머스 | Level_1 | [신고결과받기](./Programmers/Level_1_신고결과받기.py) | 구현 | Success | |
+| 26.04.18 | 프로그래머스 | Level_2 | [주차요금계산](./Programmers/Level_Tests/Level_2/Level_2_주차요금계산.py) | 구현 | Success | |
+| 26.04.17 | 프로그래머스 | Level_1 | [신고결과받기](./Programmers/Level_Tests/Level_1/Level_1_신고결과받기.py) | 구현 | Success | |
 | 26.04.16 | 백준 | 14503 | [로봇청소기](./Baekjoon/Implementation/14503_로봇청소기.py) | 구현 | Success | 재풀이 |
 | 26.04.16 | 백준 | 2108 | [통계학](./Baekjoon/Implementation/2108_통계학.py) | 구현 | Success | |
 | 26.04.15 | 백준 | 5430 | [쇠막대기](./Baekjoon/Data_Structure/Stack/5430_쇠막대기.py) | 스택 | Success | 고난도 |
