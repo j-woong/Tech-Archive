@@ -32,6 +32,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.05.20 | 프로그래머스 | Level_2 | [의상](./Programmers/Level_Tests/Level_2/Level_2_의상.py) | 해시 | Success | 재풀이 |
 | 26.05.20 | 프로그래머스 | Level_2 | [올바른괄호](./Programmers/Level_Tests/Level_2/Level_2_올바른괄호.py) | 스택/큐 | Success | 재풀이 |
 | 26.05.18 | 프로그래머스 | Level_2 | [가장 큰 수](./Programmers/Level_Tests/Level_2/Level_2_가장큰수.py) | 정렬 | Success | |
 | 26.05.17 | 프로그래머스 | Level_1 | [문자열 나누기](./Programmers/Level_Tests/Level_1/Level_1_문자열나누기.py) | 문자열 | Success | |
@@ -80,7 +81,6 @@
 | 26.04.10 | 백준 | 14425 | [문자열집합](./Baekjoon/Data_Structure/Hash/14425_문자열집합.py) | 해시 | Success | |
 | 26.04.09 | 백준 | 10815 | [숫자카드](./Baekjoon/Data_Structure/Hash/10815_숫자카드.py) | 해시 | Success | |
 | 26.04.09 | 프로그래머스 | Level_3 | [베스트앨범](./Programmers/Level_Tests/Level_3/Level_3_베스트앨범.py) | 해시 | Success | |
-| 26.04.09 | 프로그래머스 | Level_2 | [의상](./Programmers/Level_Tests/Level_2/Level_2_의상.py) | 해시 | Success | |
 | 26.04.09 | 프로그래머스 | Level_2 | [전화번호목록](./Programmers/Level_Tests/Level_2/Level_2_전화번호목록.py) | 해시 | Success | |
 | 26.04.08 | 프로그래머스 | Level_3 | [네트워크](./Programmers/Level_Tests/Level_3/Level_3_네트워크.py) | BFS | 진행 중 | |
 | 26.04.07 | 프로그래머스 | Level_2 | [게임맵최단거리](./Programmers/Level_Tests/Level_2/Level_2_게임맵최단거리.py) | BFS | Success | |
