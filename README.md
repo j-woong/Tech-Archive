@@ -32,6 +32,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.05.21 | 프로그래머스 | Level_2 | [카펫](./Programmers/Level_Tests/Level_1/Level_2_카펫.py) | 해시 | Success | |
 | 26.05.21 | 프로그래머스 | Level_1 | [완주하지못한선수](./Programmers/Level_Tests/Level_1/Level_1_완주하지못한선수.py) | 해시 | Success | 재풀이 |
 | 26.05.20 | 프로그래머스 | Level_2 | [의상](./Programmers/Level_Tests/Level_2/Level_2_의상.py) | 해시 | Success | 재풀이 |
 | 26.05.20 | 프로그래머스 | Level_2 | [올바른괄호](./Programmers/Level_Tests/Level_2/Level_2_올바른괄호.py) | 스택/큐 | Success | 재풀이 |
