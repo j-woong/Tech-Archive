@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# 내 개인 작업 파일 제외
+input.txt
+끄적끄적.py
