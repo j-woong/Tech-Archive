@@ -4,7 +4,7 @@
 > 
 > 빅데이터/AI 엔지니어가 되기 위해 필수적인 **알고리즘, 핵심 CS 지식(OS 등), 데이터 구조 실무 적용력**을 기르는 저장소입니다. 
 
-💡 **상세한 개념 정리, 오답 노트, 시각 자료는 [나만의 Notion 스페이스](https://www.notion.so/CS-Studying-277b842a1c0643e89284ee664dee9e96?source=copy_link)에 통합하여 체계적으로 관리하고 있습니다.** 🌱
+💡 **상세한 개념 정리, 시각 자료는 [나만의 Notion 스페이스](https://www.notion.so/CS-Studying-277b842a1c0643e89284ee664dee9e96?source=copy_link)에 통합하여 체계적으로 관리하고 있습니다.** 🌱
 
 ---
 
