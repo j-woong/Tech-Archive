@@ -31,6 +31,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.05.29 | 프로그래머스 | Level_1 | [자릿수더하기](./Programmers/Level_Tests/Level_1/Level_1_자릿수더하기.py) | 구현 | Success | |
 | 26.05.29 | 프로그래머스 | Level_1 | [약수의합](./Programmers/Level_Tests/Level_1/Level_1_약수의합.py) | 구현 | Success | |
 | 26.05.29 | 프로그래머스 | Level_1 | [공원산책](./Programmers/Level_Tests/Level_1/Level_1_공원산책.py) | 구현 | Success | |
 | 26.05.26 | 프로그래머스 | Level_2 | [[3차]파일명정렬](./Programmers/Level_Tests/Level_2/Level_2_[3차]파일명정렬.py) | 구현 | Success | |
